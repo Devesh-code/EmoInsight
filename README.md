@@ -1,3 +1,2 @@
 # EmoInsight
-A facial emotion recognition web application
-Stil under Development 
+A facial emotion recognition web application and under Development 
